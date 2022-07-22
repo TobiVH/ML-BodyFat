@@ -3,7 +3,7 @@
 This <a href="https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset">dataset</a> is available on kaggle, and it consist of a variaety of body part meassuremes, body weight, height, age and Body Fat (BF) percentage estimate using the underwater weighting technique to obtain Body Density (BD), which is related to BF percentage using the equation:
 
 $$
-BF\% = \dfrac{495}{D} - 450
+BF = \dfrac{495}{D} - 450
 $$
 
 
